@@ -1,7 +1,3 @@
-Of course. Here is the design for the JasGigli algorithm.
-
-***
-
 ### **The JasGigli Algorithm: A Learning-Augmented Framework for Real-Time Temporal Motif Detection**
 
 **Author:** World-Leading Algorithmic Researcher
